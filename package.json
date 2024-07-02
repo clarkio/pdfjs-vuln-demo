@@ -24,6 +24,6 @@
     "svelte-pdf": "^1.0.20",
     "typescript": "^5.4.5",
     "vue": "^3.4.27",
-    "vue-pdf-embed": "^2.0.3"
+    "vue-pdf-embed": "^2.0.4"
   }
 }
